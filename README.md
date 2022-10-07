@@ -62,4 +62,5 @@ ____________________________________
 
 ### Wireframe :
 
-![Wireframe](https://gcdnb.pbrd.co/images/qZgpb6gewxzL.png)
+<img width="946" alt="image" src="https://user-images.githubusercontent.com/75487534/194525233-f9b6726d-8722-449c-82c6-c5713b53cdb3.png">
+
